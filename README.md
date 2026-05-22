@@ -1,4 +1,4 @@
-# RAG_tender_Transrail_AI_Workshop
+# RAG_Tender_Transrail_AI_Workshop
 
 An enterprise-grade **Retrieval-Augmented Generation (RAG)** pipeline designed to automate legal and technical audit validation for complex engineering, procurement, and construction (EPC) tenders. 
 
